@@ -1,5 +1,5 @@
 # Bartosz Walaszek
 ## DEMO 
 https://mikey737.github.io/BartoszWalaszek/
-## Opis
+## Description
 A short page about Bartosz Walaszek.

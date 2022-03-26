@@ -20,15 +20,15 @@
     color: red;
 }
 
-.bomba__Tytus {
+.bomba__tytus {
     display: none;
 }
 
-.bomba__Sebek {
+.bomba__sebek {
     display: none;
 }
 
-.bomba__Janusz {
+.bomba__janusz {
     display: none;
 }
 
@@ -36,6 +36,6 @@
     margin: 2px;
 }
 
-.Show {
+.bomba__image--show {
     display: block;
 }

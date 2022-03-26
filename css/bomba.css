@@ -1,0 +1,41 @@
+.bomba_link {
+    color: blue;
+    text-decoration: none;
+}
+
+.bomba_link:visited {
+    outline: none;
+}
+
+.bomba_link:focus {
+    color: rgb(5, 150, 20);
+}
+
+.bomba_link:hover {
+    color: blueviolet;
+    border-bottom: 1px solid;
+}
+
+.bomba_link:active {
+    color: red;
+}
+
+.bomba__Tytus {
+    display: none;
+}
+
+.bomba__Sebek {
+    display: none;
+}
+
+.bomba__Janusz {
+    display: none;
+}
+
+.bomba__buttonZaloga {
+    margin: 2px;
+}
+
+.Show {
+    display: block;
+}

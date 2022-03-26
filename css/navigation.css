@@ -1,0 +1,35 @@
+.navigation {
+    border: 2px solid rgb(11, 103, 196);
+    padding: 5px 5px;
+    border-radius: 10px;
+    max-width: 1000px;
+    outline: 4px outset crimson;
+    outline-offset: auto;
+    margin: auto;
+}
+
+.navigation__item {
+    list-style-type: none;
+}
+
+.navigation__link {
+    color: blue;
+    text-decoration: none;
+}
+
+.navigation__link:visited {
+    outline: none;
+}
+
+.navigation__link:focus {
+    color: rgb(5, 150, 20);
+}
+
+.navigation__link:hover {
+    color: blueviolet;
+    border-bottom: 1px solid;
+}
+
+.navigation__link:active {
+    color: red;
+}
